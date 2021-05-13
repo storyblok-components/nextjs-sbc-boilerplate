@@ -1,9 +1,9 @@
 {
   "name": "nextjs-sbc-boilerplate",
+  "description": "NextJS @storyblok-components core boilerplate",
   "author": "Marcin Krawczyk <marckraw@icloud.com>",
   "license": "MIT",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
